@@ -2,9 +2,9 @@
 
 Development is ongoing ...
 
-一个来自中国高中生的代码联系
+一个来自中国高中生的代码练习
 
-A code connection from a Chinese high school student
+A code exercise from a Chinese high school student
 
 如它的名字，这是Stable-Diffusion的桌面图形化程序，可以帮助不会进行复杂本地部署的用户快速在自己的电脑上使用Stable-Diffusion
 
