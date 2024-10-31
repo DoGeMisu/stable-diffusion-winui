@@ -12,6 +12,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Newtonsoft.Json.Linq;
+using stable_diffusion_winui.Tool;
 
 namespace stable_diffusion_winui
 {
@@ -23,6 +25,10 @@ namespace stable_diffusion_winui
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
         }
     }
 }
